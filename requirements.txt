@@ -1,0 +1,6 @@
+keyboard
+mouse
+uiautomation
+faster-whisper  # local speech-to-text (F8)
+sounddevice     # mic capture
+anthropic>=1,<2  # only needed for the "claude" provider
