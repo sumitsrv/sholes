@@ -1,0 +1,9 @@
+# private: reconstructed keystrokes, voice transcripts, learned style
+logs/
+profile.json
+
+# local settings (may hold API keys); regenerated from DEFAULT_CONFIG on first run
+config.json
+
+__pycache__/
+*.pyc
